@@ -1,0 +1,96 @@
+pre defined symbols
+arithmetic operator
++,-,%,*,--,++
+
+post inc
+first value assigned
+then increments
+var a=10;
+console.log(a++)//10
+console.log(a++)//11
+
+pre in
+first increments
+then assign the value
+let b=10
+
+console.log(++b)//11
+---------------------------------------
+assignment operator(short hand)
+=,+=,-=,*=,/=,%=
+let c=10
+console.log(c)
+console.log(c=c+10)
+console.log(c+=10)
+------------------------------------------------------
+
+relational
+>,>=,<,<=,!=,(checks value only)==,===(checks data type and value),
+console.log(10==10)//true
+console.log(10=="10")//true
+console.log(10===10)//true
+console.log(10==="10")//FALSE
+----------------------------------------------------------
+logical operators
+AND(&&)
+OR(||)
+NOT(!)
+
+TERNARY operators
+will accept three operands
+(condition):true-statement:false statement
+5<10
+---------------------------------------------------------
+coditional opeerators
+simple-if
+
+if-else
+print true and false statement based on the condition
+let n=5;
+if(n<=10){
+console.log("smallest")
+else{
+console.log("largest")
+}
+}
+
+if(m >= n && n>==o){
+console.log("m  =is greatest")
+
+nested if
+let user = "admin"
+let password = 12244
+
+if(user ==="admin"){
+console.log("admin is valid")
+if(password ==="12244")
+{
+console.log("password is valid")
+console.log("login successful")
+}
+else{
+console.log("admin is invalid")
+
+let n=1
+switch(n){
+case 1:{
+console,log("print 1")
+}
+case 2:{
+console.log("print 2")
+}
+
+-----------------------------------------------------------
+looping statement
+it is used to exxecute/iterate set of instructions based on condition
+
+*for 
+while
+do while
+*for each
+
+
+
+
+
+
