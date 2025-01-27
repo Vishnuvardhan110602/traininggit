@@ -1,0 +1,18 @@
+-->making a way for other function to execute
+-->two built in methods
+setTimeout(cbf,dealy time)
+setInterval(cdf, delay time)
+-->present inside wondow object
+
+promise
+-->3-phases
+pending -- either  promise will be resolve or reject
+resolve -- resolve when async fun is successfull-accept then method
+reject -- reject async fun when not successfull
+
+syntax::
+new Promise((resolve, reject)=>{
+--async--
+)}
+.then(cbf)
+.catch(cbf)

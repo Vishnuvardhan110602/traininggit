@@ -1,0 +1,5 @@
+we can use multiple then methods
+-->dom is an object
+it is having an root element called docum
+it is having life-span until page reload
+used to create,modify,delete an ele and we can provides styles to dom.

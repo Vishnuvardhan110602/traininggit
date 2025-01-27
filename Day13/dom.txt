@@ -1,0 +1,12 @@
+//mannipulation or modification of dom
+//updating or modifying of dom
+//method
+// createElement method
+// how to use this method
+1--createElement using createElement() method
+2--append an element to hte parent element by using append or appendChild method
+let a = document.createElement('hello')
+///console.log(a);
+a.textcontent="hii"
+document.body.appendChild(a)
+
