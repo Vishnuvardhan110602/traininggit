@@ -1,0 +1,11 @@
+arrays is used to store data of an diff datatypes
+by using new keyword
+
+object in js
+it is used to store data in the form of key and value pair
+create by using declaration way
+let object={
+name:"vishnu",
+id:1,
+designation:"developer"
+}
