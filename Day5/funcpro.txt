@@ -1,0 +1,15 @@
+Arrow Function
+it was introduced in ecmascript6-2015
+it is used to reduce no of lines in a code
+
+two type keywords
+->implicit
+no need of using return keywords
+let a =()=> console.log("hello");
+a()
+
+->explicit
+return keyword in mandatory
+let b=()=>{return "hello"}
+console.log(b);
+console.log(b());

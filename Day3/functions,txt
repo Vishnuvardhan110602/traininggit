@@ -1,0 +1,53 @@
+--functions are first citizen in js
+--in js functions are objects
+
+tyes
+--function declaration statement/named function/pure function
+--function expressure
+
+-- function programming
+    -higer order function
+    -call back function
+    - Arrow function
+    -nested function
+    -IIFE (immediate invoking function expression)
+
+function identifier declaration statement
+    -it is a set of instuction/ block of code used to perform specific task
+    
+    syntax:
+    (keyword)--> function [fun_name (parameters,........)] -->identifiers
+    {
+    set of instructions
+    }
+    fun-name(args,...)
+
+    return keyword
+    will stop execution of the function
+
+    Hoisting
+    calling the functon before fun declaration
+
+    {main adv of function
+    code reusability
+    write once call multiple times}
+
+
+    {create a fun to perform arithmetic operation for 2 nums 
+    and input should be taken from end user}
+
+    --hoisting is not possible in fun expresion--->lead to reference error
+    --syntax
+    let demo =function(){
+        console.log("hello")
+    }
+conole.log(demo)
+ddemo()
+higher 
+it is used to perform generic task
+a fun programming can be created using fun declarationst statement and fun expression and arrow function
+
+    higher order fun
+    a fun which accepts another fun as an argument
+    call back 
+    a function which is passed as an argumnet to higher order fun is called call back fun
