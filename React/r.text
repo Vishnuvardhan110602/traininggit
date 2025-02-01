@@ -1,0 +1,53 @@
+react is a library
+used to develop single page application 
+it is component based application 
+component re-usable
+it is declratiive
+
+
+diffng alg
+mvc archit model view control
+depedency
+react
+react dom
+react script
+---------------
+react 
+two ways 
+cdn use external 
+node
+npm-install, update, delete package in a js 
+package will be installed globally
+ npm install a -g create-react-application
+ npm create vite@latest to install new version
+
+
+31-1-25
+31/01/25
+*********
+react folder structure:
+-----------------------
+
+node-modules:
+--all library and third party library will be installed
+--babbel
+
+src-folder:
+--it is a root folder used to create component
+
+index.html:
+--it is a root file
+
+package.json:
+--it consist of all dependency and third party library
+
+eslint(ecma script lint):
+--it is used to testing / debug  purpose
+
+component
+it is a basic block in react
+component is a re usable
+two ty
+rcc-class based\
+rafce-
+

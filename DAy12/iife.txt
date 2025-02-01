@@ -1,0 +1,10 @@
+iife: it will be called immediately once function object is created
+syntax:
+(expression(function))()
+
+(function ()
+{ 
+// Function Logic Here. 
+})();
+
+(()=>{
