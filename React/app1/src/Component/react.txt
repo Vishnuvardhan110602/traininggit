@@ -1,0 +1,28 @@
+ways of creating elements
+html
+
+<h1>hello</h1>
+
+Dom in js 
+---------
+let h1 = document.createElement("h1")
+consle.log(h1)
+h1.textContent = "hello"
+
+React
+------
+two ways
+-------
+
+1)React.createElement("tag-name" , "id/class or null" , "content/childern")
+
+eg:- React.createElement("h1" , "null" , "hello")
+
+     React.createElement("div" , {id: "demo"} , React.createElement("span" , "null" , "iam span tag"))
+
+props in react
+-----------
+--> props stands for properties
+--> used to send data from one to another component.
+--> props are uni-direction.
+--> props are immutable (read-only)
