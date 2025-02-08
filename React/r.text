@@ -54,3 +54,34 @@ rafce-
 import {useState} from 'react'
 let []=
 it is a function used to 
+
+
+react froms
+
+-->controlled form 
+use virtual dom
+handled by  useState hook and on change
+
+-->uncontrolled form
+real dom
+useRef hook to fetch the data
+
+
+7-2-2025
+using in line css
+using globally css
+using externally css
+
+zen coding
+
+
+useRef hook in react 
+--------------------
+-->ref stands for reference
+-->useRef uses real dom
+-->useRef hook is having a property called current
+-->useRef is used for un controlled form
+
+Syntax:
+import {useRef} from "react"
+let identifier = useRef(initial value)

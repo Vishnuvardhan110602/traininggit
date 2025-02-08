@@ -28,7 +28,7 @@ const Child = (props) => {
     
   return (
     <>
-    {props.Children}
+    {props.children}
     </>
   )
 }
